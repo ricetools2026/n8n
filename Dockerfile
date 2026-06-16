@@ -1,3 +1,3 @@
-FROM n8nio/n8n
+FROM ricetools2026/n8n
 EXPOSE 5678
 CMD ["n8n"]
